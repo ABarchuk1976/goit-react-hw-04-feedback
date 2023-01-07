@@ -1,0 +1,8 @@
+.statistics__item {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.statistics__item:last-child() {
+  margin-bottom: 0;
+}
